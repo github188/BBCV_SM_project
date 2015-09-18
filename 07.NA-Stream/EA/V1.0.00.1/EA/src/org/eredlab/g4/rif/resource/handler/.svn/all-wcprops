@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/handler
+END
+GZipResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/handler/GZipResourceHandler.java
+END
+JSMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/handler/JSMin.java
+END
+CSSMinResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/handler/CSSMinResourceHandler.java
+END
+CssCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/handler/CssCompressor.java
+END
+NoneResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/handler/NoneResourceHandler.java
+END
+JSMinResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/handler/JSMinResourceHandler.java
+END

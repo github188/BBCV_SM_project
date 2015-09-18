@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/newsvn/!svn/ver/2659/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs
+END
+org.springframework.aop-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.aop-3.0.5.RELEASE.jar
+END
+org.springframework.asm-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.asm-3.0.5.RELEASE.jar
+END
+slf4j-log4j12-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/slf4j-log4j12-1.6.4.jar
+END
+jetty-webapp-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-webapp-7.6.2.v20120308.jar
+END
+mysql-connector-java-5.1.15-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/2659/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/mysql-connector-java-5.1.15-bin.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/newsvn/!svn/ver/2659/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/c3p0-0.9.1.2.jar
+END
+junit-4.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/junit-4.10.jar
+END
+ehcache-core-2.4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/ehcache-core-2.4.4.jar
+END
+org.springframework.context-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.context-3.0.5.RELEASE.jar
+END
+org.springframework.transaction-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.transaction-3.0.5.RELEASE.jar
+END
+jetty-plus-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-plus-7.6.2.v20120308.jar
+END
+jetty-servlet-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-servlet-7.6.2.v20120308.jar
+END
+jetty-jndi-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-jndi-7.6.2.v20120308.jar
+END
+org.springframework.beans-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.beans-3.0.5.RELEASE.jar
+END
+org.springframework.core-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.core-3.0.5.RELEASE.jar
+END
+jetty-websocket-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-websocket-7.6.2.v20120308.jar
+END
+org.springframework.expression-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.expression-3.0.5.RELEASE.jar
+END
+json-lib-2.2.1-jdk13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/json-lib-2.2.1-jdk13.jar
+END
+jetty-deploy-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-deploy-7.6.2.v20120308.jar
+END
+jetty-annotations-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-annotations-7.6.2.v20120308.jar
+END
+org.springframework.aspects-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.aspects-3.0.5.RELEASE.jar
+END
+org.springframework.jdbc-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.jdbc-3.0.5.RELEASE.jar
+END
+jetty-policy-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-policy-7.6.2.v20120308.jar
+END
+jetty-overlay-deployer-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-overlay-deployer-7.6.2.v20120308.jar
+END
+log4j-1.2.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/log4j-1.2.12.jar
+END
+jetty-security-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-security-7.6.2.v20120308.jar
+END
+jetty-io-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-io-7.6.2.v20120308.jar
+END
+jetty-util-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-util-7.6.2.v20120308.jar
+END
+mina-integration-spring-1.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/mina-integration-spring-1.1.6.jar
+END
+jetty-client-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-client-7.6.2.v20120308.jar
+END
+jetty-http-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-http-7.6.2.v20120308.jar
+END
+mina-core-2.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/mina-core-2.0.4.jar
+END
+jetty-rewrite-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-rewrite-7.6.2.v20120308.jar
+END
+ezmorph-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/ezmorph-1.0.3.jar
+END
+org.springframework.orm-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.orm-3.0.5.RELEASE.jar
+END
+org.springframework.context.support-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.context.support-3.0.5.RELEASE.jar
+END
+org.springframework.web.servlet-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.web.servlet-3.0.5.RELEASE.jar
+END
+commons-collections-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/commons-collections-3.2.jar
+END
+jetty-jmx-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-jmx-7.6.2.v20120308.jar
+END
+jetty-xml-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-xml-7.6.2.v20120308.jar
+END
+mina-integration-beans-2.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/mina-integration-beans-2.0.4.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/commons-logging-1.1.1.jar
+END
+commons-lang-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/commons-lang-2.5.jar
+END
+servlet-api-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/servlet-api-2.5.jar
+END
+slf4j-api-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/slf4j-api-1.6.4.jar
+END
+jetty-server-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-server-7.6.2.v20120308.jar
+END
+commons-beanutils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/commons-beanutils.jar
+END
+jetty-servlets-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-servlets-7.6.2.v20120308.jar
+END
+org.springframework.web-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/org.springframework.web-3.0.5.RELEASE.jar
+END
+jetty-ajp-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-ajp-7.6.2.v20120308.jar
+END
+jetty-continuation-7.6.2.v20120308.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/2576/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/libs/jetty-continuation-7.6.2.v20120308.jar
+END

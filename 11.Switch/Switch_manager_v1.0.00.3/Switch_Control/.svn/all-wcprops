@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/3271/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control
+END
+Switch_worker_Sever.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/3119/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Switch_worker_Sever.cpp
+END
+Switch_Manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Switch_Manager.h
+END
+Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Stream.h
+END
+Switch_Control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/3125/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Switch_Control.cpp
+END
+CommonFun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/3119/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/CommonFun.cpp
+END
+Switch_worker_Sever.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Switch_worker_Sever.h
+END
+swm_stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/swm_stop.sh
+END
+Switch_Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Switch_Main.cpp
+END
+Switch_Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Switch_Control.h
+END
+CommonFun.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/3119/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/CommonFun.h
+END
+Cmake.pure
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Cmake.pure
+END
+swm_start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/swm_start.sh
+END
+Switch_Stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Switch_Stream.cpp
+END
+cJSON.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/cJSON.c
+END
+错误码.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/3267/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/%E9%94%99%E8%AF%AF%E7%A0%81.txt
+END
+Switch_Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Switch_Stream.h
+END
+cJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/cJSON.h
+END
+CommonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3119/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/CommonData.h
+END
+SWM.config
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/3125/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/SWM.config
+END
+Switch_Manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/3271/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Switch_Manager.cpp
+END
+Stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Stream.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Control/Makefile
+END

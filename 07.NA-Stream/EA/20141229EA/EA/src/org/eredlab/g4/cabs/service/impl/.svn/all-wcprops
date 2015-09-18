@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/cabs/service/impl
+END
+ServerMonitorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/cabs/service/impl/ServerMonitorServiceImpl.java
+END
+PackageVersionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/cabs/service/impl/PackageVersionServiceImpl.java
+END
+BatchUpdateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/cabs/service/impl/BatchUpdateServiceImpl.java
+END
+UpdateStrategyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/cabs/service/impl/UpdateStrategyServiceImpl.java
+END
+AppGroupManagerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/cabs/service/impl/AppGroupManagerServiceImpl.java
+END
+DevManagerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/cabs/service/impl/DevManagerServiceImpl.java
+END

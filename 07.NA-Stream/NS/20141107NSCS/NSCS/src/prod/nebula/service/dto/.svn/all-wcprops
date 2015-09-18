@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/3768/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141107NSCS/NSCS/src/prod/nebula/service/dto
+END
+VodInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3768/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141107NSCS/NSCS/src/prod/nebula/service/dto/VodInfo.java
+END
+DatabaseQuary.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/3768/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141107NSCS/NSCS/src/prod/nebula/service/dto/DatabaseQuary.java
+END
+MobileDetailPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/3768/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141107NSCS/NSCS/src/prod/nebula/service/dto/MobileDetailPage.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/3768/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141107NSCS/NSCS/src/prod/nebula/service/dto/UserManager.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/3768/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141107NSCS/NSCS/src/prod/nebula/service/dto/UserInfo.java
+END
+RcmManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/3768/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141107NSCS/NSCS/src/prod/nebula/service/dto/RcmManager.java
+END
+VodResourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/3768/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141107NSCS/NSCS/src/prod/nebula/service/dto/VodResourceInfo.java
+END

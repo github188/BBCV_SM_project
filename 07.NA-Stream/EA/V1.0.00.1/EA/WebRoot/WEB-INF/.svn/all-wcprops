@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/struts-config.xml
+END
+struts-config-urm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/struts-config-urm.xml
+END
+struts-config-crsm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/struts-config-crsm.xml
+END
+struts-config-demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/struts-config-demo.xml
+END
+struts-config-caas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/struts-config-caas.xml
+END
+struts-config-cabs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/struts-config-cabs.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/web.xml
+END

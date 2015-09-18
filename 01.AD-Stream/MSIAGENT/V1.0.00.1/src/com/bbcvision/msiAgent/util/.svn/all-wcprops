@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/3091/CODE/01.product/05.SVSTB/01.AD-Stream/MSIAGENT/V1.0.00.1/src/com/bbcvision/msiAgent/util
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3091/CODE/01.product/05.SVSTB/01.AD-Stream/MSIAGENT/V1.0.00.1/src/com/bbcvision/msiAgent/util/StringUtil.java
+END
+ApplicationContextHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/newsvn/!svn/ver/3091/CODE/01.product/05.SVSTB/01.AD-Stream/MSIAGENT/V1.0.00.1/src/com/bbcvision/msiAgent/util/ApplicationContextHelper.java
+END
+PropertiesUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/3091/CODE/01.product/05.SVSTB/01.AD-Stream/MSIAGENT/V1.0.00.1/src/com/bbcvision/msiAgent/util/PropertiesUtil.java
+END
+Commons.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3091/CODE/01.product/05.SVSTB/01.AD-Stream/MSIAGENT/V1.0.00.1/src/com/bbcvision/msiAgent/util/Commons.java
+END
+PropertyPlaceholderConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/newsvn/!svn/ver/3091/CODE/01.product/05.SVSTB/01.AD-Stream/MSIAGENT/V1.0.00.1/src/com/bbcvision/msiAgent/util/PropertyPlaceholderConfigurer.java
+END

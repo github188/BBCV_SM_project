@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/resource
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/resource/logback.xml
+END
+global.g4.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/resource/global.g4.properties
+END
+global.app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/resource/global.app.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/resource/log4j.properties
+END
+g4.Resource.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/resource/g4.Resource.properties
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/resource/jdbc.properties
+END

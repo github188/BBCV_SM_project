@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service
+END
+NavigateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/NavigateService.java
+END
+QamService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/QamService.java
+END
+AppAccessService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/AppAccessService.java
+END
+StreamResourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/StreamResourceService.java
+END
+QamResourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/QamResourceService.java
+END
+AdsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/AdsService.java
+END
+NgodService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/NgodService.java
+END
+RfService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/RfService.java
+END
+NewQamService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/NewQamService.java
+END
+NetworkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/NetworkService.java
+END
+QamDyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/urm/service/QamDyService.java
+END

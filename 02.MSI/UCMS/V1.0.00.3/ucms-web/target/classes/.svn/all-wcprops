@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/newsvn/!svn/ver/4205/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.3/ucms-web/target/classes
+END
+struts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4204/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.3/ucms-web/target/classes/struts.properties
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4204/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.3/ucms-web/target/classes/config.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/4204/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.3/ucms-web/target/classes/log4j.properties
+END

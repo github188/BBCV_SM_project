@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/newsvn/!svn/ver/4665/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/WebRoot/WEB-INF
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/4512/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/WebRoot/WEB-INF/struts-config.xml
+END
+struts-config-urm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/4665/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/WebRoot/WEB-INF/struts-config-urm.xml
+END
+struts-config-crsm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/WebRoot/WEB-INF/struts-config-crsm.xml
+END
+struts-config-demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/WebRoot/WEB-INF/struts-config-demo.xml
+END
+struts-config-caas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/WebRoot/WEB-INF/struts-config-caas.xml
+END
+struts-config-cabs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/WebRoot/WEB-INF/struts-config-cabs.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/WebRoot/WEB-INF/web.xml
+END

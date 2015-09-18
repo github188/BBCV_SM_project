@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/newsvn/!svn/ver/3521/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1
+END
+cStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cStream.cpp
+END
+cCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cCommon.h
+END
+cRecv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cRecv.cpp
+END
+cStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cStream.h
+END
+cRecv.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cRecv.h
+END
+cDatabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cDatabase.cpp
+END
+cConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cConfig.cpp
+END
+mutest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/mutest.sh
+END
+cStartstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cStartstream.cpp
+END
+cJSON.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cJSON.c
+END
+cDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cDatabase.h
+END
+cConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cConfig.h
+END
+cRead.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cRead.cpp
+END
+mustop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3520/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/mustop.sh
+END
+mul.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/newsvn/!svn/ver/3521/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/mul.config
+END
+cStartstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cStartstream.h
+END
+cJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cJSON.h
+END
+cRead.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cRead.h
+END
+cMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cMain.cpp
+END
+mustart.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/newsvn/!svn/ver/3520/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/mustart.sh
+END
+cCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/cCommon.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/Makefile
+END
+备注.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/newsvn/!svn/ver/3519/CODE/01.product/05.SVSTB/10.SM/MulticastV1.0.00.1/%E5%A4%87%E6%B3%A8.txt
+END

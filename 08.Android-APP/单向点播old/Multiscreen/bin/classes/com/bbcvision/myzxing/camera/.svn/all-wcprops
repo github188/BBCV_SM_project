@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/camera
+END
+CameraConfigurationManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/camera/CameraConfigurationManager.class
+END
+PreviewCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/camera/PreviewCallback.class
+END
+CameraConfigurationManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/camera/CameraConfigurationManager$1.class
+END
+AutoFocusManager$AutoFocusTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/camera/AutoFocusManager$AutoFocusTask.class
+END
+AutoFocusManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/camera/AutoFocusManager.class
+END
+CameraManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/camera/CameraManager.class
+END
+FrontLightMode.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/camera/FrontLightMode.class
+END

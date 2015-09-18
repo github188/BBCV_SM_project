@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-dto/src/main/java/prod/nebula/dto/response/channelcenter/bgw
+END
+KeyDownResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-dto/src/main/java/prod/nebula/dto/response/channelcenter/bgw/KeyDownResponse.java
+END
+ScreennoticeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-dto/src/main/java/prod/nebula/dto/response/channelcenter/bgw/ScreennoticeResponse.java
+END
+CommonResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-dto/src/main/java/prod/nebula/dto/response/channelcenter/bgw/CommonResponse.java
+END
+TerminfoQueryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-dto/src/main/java/prod/nebula/dto/response/channelcenter/bgw/TerminfoQueryResponse.java
+END
+SwitchKeyAppResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-dto/src/main/java/prod/nebula/dto/response/channelcenter/bgw/SwitchKeyAppResponse.java
+END
+NoticeoverResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-dto/src/main/java/prod/nebula/dto/response/channelcenter/bgw/NoticeoverResponse.java
+END
+SwitchDvbResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-dto/src/main/java/prod/nebula/dto/response/channelcenter/bgw/SwitchDvbResponse.java
+END

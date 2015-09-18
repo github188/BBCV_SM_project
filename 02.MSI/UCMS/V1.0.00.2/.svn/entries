@@ -1,0 +1,129 @@
+10
+
+dir
+4816
+http://192.168.100.21/svn/newsvn/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2
+http://192.168.100.21/svn/newsvn
+
+
+
+2015-01-06T07:19:49.856025Z
+4120
+zhangdj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0d40454a-3a49-40b4-83cb-aa7bedcd95e6
+
+ucms-commons
+dir
+
+ucms-web
+dir
+
+ucms-exception
+dir
+
+.project
+file
+
+
+
+
+2014-10-17T06:57:03.734501Z
+bd86ef7183c6f73dc8224024566a8194
+2014-10-15T10:16:32.199345Z
+1871
+zhangdj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+383
+
+ucms-model
+dir
+
+ucms-service
+dir
+
+src
+dir
+
+ucms-mdb
+dir
+
+ucms-dao
+dir
+
+pom.xml
+file
+
+
+
+
+2014-10-17T06:57:03.737501Z
+f17c8ca3734dcfc5561b124b80c3d373
+2014-10-15T10:16:32.199345Z
+1871
+zhangdj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9283
+
+ucms-dto
+dir
+
+ucms-socket
+dir
+
+.settings
+dir
+

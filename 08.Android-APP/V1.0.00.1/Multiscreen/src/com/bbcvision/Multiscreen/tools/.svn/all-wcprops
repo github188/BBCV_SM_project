@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/Multiscreen/tools
+END
+SysConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/Multiscreen/tools/SysConfig.java
+END
+CommonTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/Multiscreen/tools/CommonTool.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/Multiscreen/tools/StringUtils.java
+END
+PackageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/Multiscreen/tools/PackageUtils.java
+END
+PreferenceTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/Multiscreen/tools/PreferenceTool.java
+END
+UIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/Multiscreen/tools/UIUtils.java
+END

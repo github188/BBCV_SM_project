@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/zxingdemonew/zxing/decoding
+END
+DecodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/zxingdemonew/zxing/decoding/DecodeHandler.java
+END
+InactivityTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/zxingdemonew/zxing/decoding/InactivityTimer.java
+END
+Intents.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/zxingdemonew/zxing/decoding/Intents.java
+END
+FinishListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/zxingdemonew/zxing/decoding/FinishListener.java
+END
+DecodeFormatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/zxingdemonew/zxing/decoding/DecodeFormatManager.java
+END
+DecodeThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/zxingdemonew/zxing/decoding/DecodeThread.java
+END
+CaptureActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/src/com/bbcvision/zxingdemonew/zxing/decoding/CaptureActivityHandler.java
+END

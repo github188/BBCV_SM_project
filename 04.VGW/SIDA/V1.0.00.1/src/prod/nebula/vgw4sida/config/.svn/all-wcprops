@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/newsvn/!svn/ver/3372/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/config
+END
+VODConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/2582/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/config/VODConst.java
+END
+MsgConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/3372/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/config/MsgConstants.java
+END
+JSONConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/2582/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/config/JSONConstants.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/2582/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/config/Command.java
+END
+ServerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/2659/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/config/ServerConfiguration.java
+END

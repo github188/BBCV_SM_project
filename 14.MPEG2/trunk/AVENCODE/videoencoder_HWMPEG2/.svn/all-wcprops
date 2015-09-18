@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2
+END
+msdk_encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/msdk_encode.h
+END
+mfxdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/mfxdefs.h
+END
+mfxsession.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/mfxsession.h
+END
+mfxstructures.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/mfxstructures.h
+END
+buffdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/buffdef.h
+END
+mfxvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/mfxvideo.h
+END
+videoencoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/videoencoder.cpp
+END
+mfxcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/mfxcommon.h
+END
+vaenclib.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/vaenclib.h
+END
+videoencoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/videoencoder.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/videoencoder_HWMPEG2/Makefile
+END

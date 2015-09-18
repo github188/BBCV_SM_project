@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/4786/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/newsvn/!svn/ver/4261/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/logback.xml
+END
+global.g4.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/4261/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/global.g4.properties
+END
+global.app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/newsvn/!svn/ver/4785/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/global.app.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/newsvn/!svn/ver/4261/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/log4j.properties
+END
+g4.Resource.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/newsvn/!svn/ver/4261/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/g4.Resource.properties
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/newsvn/!svn/ver/4631/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/jdbc.properties
+END

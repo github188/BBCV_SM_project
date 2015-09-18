@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2
+END
+Navigation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Navigation.cpp
+END
+Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Stream.h
+END
+Config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Config.cpp
+END
+CommonFun.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/CommonFun.h
+END
+DBInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/DBInterface.cpp
+END
+smtest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/smtest.sh
+END
+MSI_SMStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/MSI_SMStream.h
+END
+SM_Manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/SM_Manager.cpp
+END
+cJSON.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/cJSON.c
+END
+initadvstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/initadvstream.h
+END
+SM_Control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/SM_Control.cpp
+END
+Advertisement.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Advertisement.h
+END
+cJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/cJSON.h
+END
+CommonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/CommonData.h
+END
+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Base64.h
+END
+Stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Stream.cpp
+END
+VGW_VodStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/VGW_VodStream.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Makefile
+END
+CommonFun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/CommonFun.cpp
+END
+sm.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/sm.config
+END
+MSI_SMStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/MSI_SMStream.cpp
+END
+Navigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Navigation.h
+END
+initadvstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/initadvstream.cpp
+END
+Advertisement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Advertisement.cpp
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Config.h
+END
+DBInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/DBInterface.h
+END
+SM_Manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/SM_Manager.h
+END
+CommonData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/CommonData.cpp
+END
+SM_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/SM_main.cpp
+END
+SM_Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/SM_Control.h
+END
+Base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/Base64.cpp
+END
+VGW_VodStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/VGW_VodStream.cpp
+END
+备注.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/newsvn/!svn/ver/3092/CODE/01.product/05.SVSTB/10.SM/SM_contro2.2/%E5%A4%87%E6%B3%A8.txt
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib
+END
+annotations-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/annotations-api.jar
+END
+el-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/el-api.jar
+END
+tomcat-i18n-fr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/tomcat-i18n-fr.jar
+END
+tomcat-i18n-es.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/tomcat-i18n-es.jar
+END
+catalina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/catalina.jar
+END
+jasper-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/jasper-el.jar
+END
+jasper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/jasper.jar
+END
+tomcat-coyote.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/tomcat-coyote.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/servlet-api.jar
+END
+tomcat-i18n-ja.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/tomcat-i18n-ja.jar
+END
+catalina-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/catalina-ant.jar
+END
+tomcat-dbcp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/tomcat-dbcp.jar
+END
+ecj-4.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/ecj-4.2.2.jar
+END
+catalina-tribes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/catalina-tribes.jar
+END
+catalina-ha.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/catalina-ha.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/lib/jsp-api.jar
+END

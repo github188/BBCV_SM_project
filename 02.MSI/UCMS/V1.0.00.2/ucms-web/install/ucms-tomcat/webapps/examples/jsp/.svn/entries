@@ -1,0 +1,187 @@
+10
+
+dir
+4816
+http://192.168.100.21/svn/newsvn/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/jsp
+http://192.168.100.21/svn/newsvn
+
+
+
+2014-10-15T10:16:32.199345Z
+1871
+zhangdj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0d40454a-3a49-40b4-83cb-aa7bedcd95e6
+
+chat
+dir
+
+include
+dir
+
+simpletag
+dir
+
+checkbox
+dir
+
+error
+dir
+
+tagplugin
+dir
+
+source.jsp
+file
+
+
+
+
+2014-10-17T06:56:35.218870Z
+1658bcc86f2cc35a24b66862a81745cc
+2014-10-15T10:16:32.199345Z
+1871
+zhangdj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+952
+
+plugin
+dir
+
+source.jsp.html
+file
+
+
+
+
+2014-10-17T06:56:35.220870Z
+7c61f1070d52689263de019adf830790
+2014-10-15T10:16:32.199345Z
+1871
+zhangdj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1003
+
+num
+dir
+
+jsptoserv
+dir
+
+cal
+dir
+
+dates
+dir
+
+snp
+dir
+
+xml
+dir
+
+colors
+dir
+
+forward
+dir
+
+images
+dir
+
+sessions
+dir
+
+security
+dir
+
+index.html
+file
+
+
+
+
+2014-10-17T06:56:35.223870Z
+66e1fd566d45638d604e9bd5c8a879c5
+2014-10-15T10:16:32.199345Z
+1871
+zhangdj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16288
+
+jsp2
+dir
+

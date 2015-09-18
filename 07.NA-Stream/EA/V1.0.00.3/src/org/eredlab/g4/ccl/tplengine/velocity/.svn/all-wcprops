@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/velocity
+END
+VelocityTemplateEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/velocity/VelocityTemplateEngine.java
+END
+InitVelocityEngineException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/velocity/InitVelocityEngineException.java
+END
+velocity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/velocity/velocity.properties
+END
+VelocityHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/velocity/VelocityHelper.java
+END

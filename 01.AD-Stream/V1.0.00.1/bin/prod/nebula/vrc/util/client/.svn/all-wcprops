@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/util/client
+END
+Client.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/util/client/Client.class
+END
+IOSocketClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/util/client/IOSocketClient.class
+END
+IOSocket.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/util/client/IOSocket.class
+END
+TcpClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/util/client/TcpClient.class
+END
+UdpClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/util/client/UdpClient.class
+END

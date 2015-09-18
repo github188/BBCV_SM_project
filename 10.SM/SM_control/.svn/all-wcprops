@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/newsvn/!svn/ver/1225/CODE/01.product/05.SVSTB/10.SM/SM_control
+END
+Navigation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/Navigation.cpp
+END
+Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/Stream.h
+END
+CommonFun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/CommonFun.cpp
+END
+MSI_SMStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/newsvn/!svn/ver/1225/CODE/01.product/05.SVSTB/10.SM/SM_control/MSI_SMStream.cpp
+END
+Navigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/Navigation.h
+END
+DBInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/DBInterface.cpp
+END
+CommonFun.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/CommonFun.h
+END
+MSI_SMStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/MSI_SMStream.h
+END
+SM_Manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/1225/CODE/01.product/05.SVSTB/10.SM/SM_control/SM_Manager.cpp
+END
+Advertisement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/Advertisement.cpp
+END
+DBInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/DBInterface.h
+END
+cJSON.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/cJSON.c
+END
+SM_Manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/SM_Manager.h
+END
+SM_Control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/SM_Control.cpp
+END
+Advertisement.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/Advertisement.h
+END
+cJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/cJSON.h
+END
+SM_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/SM_main.cpp
+END
+Base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/Base64.cpp
+END
+SM_Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/SM_Control.h
+END
+CommonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/CommonData.h
+END
+VGW_VodStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/VGW_VodStream.cpp
+END
+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/Base64.h
+END
+Stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/Stream.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/newsvn/!svn/ver/1138/CODE/01.product/05.SVSTB/10.SM/SM_control/Makefile
+END
+VGW_VodStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/1208/CODE/01.product/05.SVSTB/10.SM/SM_control/VGW_VodStream.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine
+END
+DefaultTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/DefaultTemplate.java
+END
+TemplateEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/TemplateEngine.java
+END
+StringTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/StringTemplate.java
+END
+AbstractTemplateEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/AbstractTemplateEngine.java
+END
+TemplateEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/TemplateEngineFactory.java
+END
+FileTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/FileTemplate.java
+END
+TemplateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/ccl/tplengine/TemplateType.java
+END

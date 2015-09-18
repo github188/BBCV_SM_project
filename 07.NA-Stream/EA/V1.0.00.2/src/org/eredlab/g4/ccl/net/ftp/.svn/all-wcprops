@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/Configurable.java
+END
+FTPFileListParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPFileListParser.java
+END
+FTPFileIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPFileIterator.java
+END
+FTPReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPReply.java
+END
+FTPListParseEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPListParseEngine.java
+END
+DefaultFTPFileListParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/DefaultFTPFileListParser.java
+END
+FTPFileEntryParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPFileEntryParserImpl.java
+END
+FTPClientConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPClientConfig.java
+END
+FTPConnectionClosedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPConnectionClosedException.java
+END
+FTPFileListParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPFileListParserImpl.java
+END
+FTPFileList.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPFileList.java
+END
+FTPFileEntryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPFileEntryParser.java
+END
+FTPCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPCommand.java
+END
+FTPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPClient.java
+END
+FTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTP.java
+END
+FTPFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/ccl/net/ftp/FTPFile.java
+END

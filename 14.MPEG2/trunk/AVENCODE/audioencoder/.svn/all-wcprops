@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/audioencoder
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/audioencoder/test.cpp
+END
+audioencoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/audioencoder/audioencoder.cpp
+END
+audioencoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/audioencoder/audioencoder.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/audioencoder/Makefile
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util
+END
+MessageCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/MessageCodec.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/StringUtil.java
+END
+SerializeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/SerializeUtil.java
+END
+Word4pinyin.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/Word4pinyin.java
+END
+MinaTextLineCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/MinaTextLineCodecFactory.java
+END
+RedisUseable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/RedisUseable.java
+END
+SerialnoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/SerialnoUtil.java
+END
+CommandSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/CommandSupport.java
+END
+RPMConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/RPMConstants.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/Constants.java
+END
+TCPSocketCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/common/util/TCPSocketCodec.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/bmf/base
+END
+BaseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/bmf/base/BaseDaoImpl.java
+END
+BaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/bmf/base/BaseService.java
+END
+IReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/bmf/base/IReader.java
+END
+IDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/bmf/base/IDao.java
+END
+BaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/bmf/base/BaseServiceImpl.java
+END
+IReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/bmf/base/IReaderImpl.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/bmf/base/BaseDao.java
+END
+IDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/bmf/base/IDaoImpl.java
+END

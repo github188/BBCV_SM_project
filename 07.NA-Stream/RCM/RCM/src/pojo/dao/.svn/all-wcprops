@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao
+END
+AdDistributionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao/AdDistributionView.java
+END
+AdDistributionView.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao/AdDistributionView.hbm.xml
+END
+MainBannerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao/MainBannerView.java
+END
+VodRoleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao/VodRoleView.java
+END
+BannerVodView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao/BannerVodView.java
+END
+MainBannerView.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao/MainBannerView.hbm.xml
+END
+VodRoleView.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao/VodRoleView.hbm.xml
+END
+AdAndAdDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao/AdAndAdDistribution.java
+END
+BannerVodView.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/pojo/dao/BannerVodView.hbm.xml
+END

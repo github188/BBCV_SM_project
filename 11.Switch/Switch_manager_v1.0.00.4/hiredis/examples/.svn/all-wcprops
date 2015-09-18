@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/examples
+END
+example-ae.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/examples/example-ae.c
+END
+example-libevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/examples/example-libevent.c
+END
+example-libev.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/examples/example-libev.c
+END
+example-libuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/examples/example-libuv.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/examples/example.c
+END

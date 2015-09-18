@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/1831/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-exception/src/main/java/prod/nebula/exception
+END
+ErrorCodeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-exception/src/main/java/prod/nebula/exception/ErrorCodeEnum.java
+END
+BbcvException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-exception/src/main/java/prod/nebula/exception/BbcvException.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/3767/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141203_NS/NS/src/prod/nebula/service/socket
+END
+OverTimeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/3767/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141203_NS/NS/src/prod/nebula/service/socket/OverTimeClient.java
+END
+PauseClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/3767/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141203_NS/NS/src/prod/nebula/service/socket/PauseClient.java
+END
+QuitOverTimeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/3767/CODE/01.product/05.SVSTB/07.NA-Stream/NS/20141203_NS/NS/src/prod/nebula/service/socket/QuitOverTimeClient.java
+END

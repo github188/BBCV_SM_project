@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/rif/web
+END
+BaseActionMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/rif/web/BaseActionMapping.java
+END
+BaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/rif/web/BaseAction.java
+END
+CommonActionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/rif/web/CommonActionForm.java
+END
+BaseActionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/rif/web/BaseActionForm.java
+END
+BaseActionServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/rif/web/BaseActionServlet.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util
+END
+MessageCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/MessageCodec.java
+END
+CacheTempData.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/CacheTempData.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/StringUtil.java
+END
+SerializeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/SerializeUtil.java
+END
+Word4pinyin.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/Word4pinyin.java
+END
+MinaTextLineCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/MinaTextLineCodecFactory.java
+END
+RedisUseable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/RedisUseable.java
+END
+SerialnoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/SerialnoUtil.java
+END
+CommandSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/CommandSupport.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/Constants.java
+END
+TCPSocketCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/common/util/TCPSocketCodec.java
+END

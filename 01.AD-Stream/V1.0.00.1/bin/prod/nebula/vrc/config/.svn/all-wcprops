@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/config
+END
+Command.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/config/Command.class
+END
+ServerConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/config/ServerConfiguration.class
+END
+VODConst.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/config/VODConst.class
+END
+MsgConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/config/MsgConstants.class
+END
+JSONConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/config/JSONConstants.class
+END

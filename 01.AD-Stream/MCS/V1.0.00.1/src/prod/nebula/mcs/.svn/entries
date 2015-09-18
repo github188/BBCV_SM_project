@@ -1,0 +1,46 @@
+10
+
+dir
+4816
+http://192.168.100.21/svn/newsvn/CODE/01.product/05.SVSTB/01.AD-Stream/MCS/V1.0.00.1/src/prod/nebula/mcs
+http://192.168.100.21/svn/newsvn
+
+
+
+2014-09-05T07:15:16.530743Z
+837
+zhangdj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0d40454a-3a49-40b4-83cb-aa7bedcd95e6
+
+service
+dir
+
+protocol
+dir
+
+config
+dir
+
+module
+dir
+
+core
+dir
+
+util
+dir
+

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io
+END
+FromNetASCIIInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/FromNetASCIIInputStream.java
+END
+ToNetASCIIOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/ToNetASCIIOutputStream.java
+END
+FromNetASCIIOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/FromNetASCIIOutputStream.java
+END
+SocketInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/SocketInputStream.java
+END
+CopyStreamException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/CopyStreamException.java
+END
+DotTerminatedMessageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/DotTerminatedMessageWriter.java
+END
+SocketOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/SocketOutputStream.java
+END
+CopyStreamAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/CopyStreamAdapter.java
+END
+CopyStreamEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/CopyStreamEvent.java
+END
+DotTerminatedMessageReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/DotTerminatedMessageReader.java
+END
+CopyStreamListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/CopyStreamListener.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/Util.java
+END
+ToNetASCIIInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/io/ToNetASCIIInputStream.java
+END

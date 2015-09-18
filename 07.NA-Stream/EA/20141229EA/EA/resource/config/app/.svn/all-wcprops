@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/resource/config/app
+END
+app.esb.client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/resource/config/app/app.esb.client.xml
+END
+app.sqlmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/resource/config/app/app.sqlmap.xml
+END
+app.service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/resource/config/app/app.service.xml
+END

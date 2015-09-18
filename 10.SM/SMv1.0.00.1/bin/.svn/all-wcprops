@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/newsvn/!svn/ver/3457/CODE/01.product/05.SVSTB/10.SM/SMv1.0.00.1/bin
+END
+sm.config
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/3457/CODE/01.product/05.SVSTB/10.SM/SMv1.0.00.1/bin/sm.config
+END
+smstart.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/newsvn/!svn/ver/3457/CODE/01.product/05.SVSTB/10.SM/SMv1.0.00.1/bin/smstart.sh
+END
+smstop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/3457/CODE/01.product/05.SVSTB/10.SM/SMv1.0.00.1/bin/smstop.sh
+END

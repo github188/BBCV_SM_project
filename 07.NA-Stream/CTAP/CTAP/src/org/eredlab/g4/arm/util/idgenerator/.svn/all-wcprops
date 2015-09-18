@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/util/idgenerator
+END
+IdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/util/idgenerator/IdGenerator.java
+END
+IDHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/util/idgenerator/IDHelper.java
+END
+DBSequenceStorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/util/idgenerator/DBSequenceStorer.java
+END

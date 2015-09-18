@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/channelcenter
+END
+StatusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/channelcenter/StatusRequest.java
+END
+BaseChannelCenterRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/channelcenter/BaseChannelCenterRequest.java
+END
+RegisterRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/channelcenter/RegisterRequest.java
+END

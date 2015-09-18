@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/cabs/web
+END
+PackageVersionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/cabs/web/PackageVersionAction.java
+END
+BatchUpdateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/cabs/web/BatchUpdateAction.java
+END
+UpdateStrategyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/cabs/web/UpdateStrategyAction.java
+END
+AppGroupManagerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/cabs/web/AppGroupManagerAction.java
+END
+DeviceManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/cabs/web/DeviceManage.java
+END
+ServerMonitorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4043/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.2/src/org/eredlab/g4/cabs/web/ServerMonitorAction.java
+END

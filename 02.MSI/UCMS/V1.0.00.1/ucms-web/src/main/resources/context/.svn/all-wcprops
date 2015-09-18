@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/1713/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-web/src/main/resources/context
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/1713/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-web/src/main/resources/context/applicationContext.xml
+END
+applicationContext-database.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-web/src/main/resources/context/applicationContext-database.xml
+END
+applicationContext-mina.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-web/src/main/resources/context/applicationContext-mina.xml
+END
+applicationContext-quartz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-web/src/main/resources/context/applicationContext-quartz.xml
+END

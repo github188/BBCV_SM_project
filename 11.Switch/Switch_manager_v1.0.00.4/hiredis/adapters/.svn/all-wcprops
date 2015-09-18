@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/adapters
+END
+libev.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/adapters/libev.h
+END
+libuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/adapters/libuv.h
+END
+ae.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/adapters/ae.h
+END
+libevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/adapters/libevent.h
+END

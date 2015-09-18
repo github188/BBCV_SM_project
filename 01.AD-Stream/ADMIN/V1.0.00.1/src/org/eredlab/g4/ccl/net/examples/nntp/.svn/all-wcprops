@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/examples/nntp
+END
+NNTPUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/examples/nntp/NNTPUtils.java
+END
+ExtendedNNTPOps.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/examples/nntp/ExtendedNNTPOps.java
+END
+post.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/examples/nntp/post.java
+END
+MessageThreading.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/examples/nntp/MessageThreading.java
+END
+newsgroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/examples/nntp/newsgroups.java
+END

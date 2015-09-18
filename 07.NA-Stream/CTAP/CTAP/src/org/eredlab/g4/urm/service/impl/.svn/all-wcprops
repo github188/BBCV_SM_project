@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/4661/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl
+END
+NavigateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/NavigateServiceImpl.java
+END
+DateSynchronizateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/newsvn/!svn/ver/4649/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/DateSynchronizateServiceImpl.java
+END
+KeyGatewayConfigServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/KeyGatewayConfigServiceImpl.java
+END
+AppAccessServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/AppAccessServiceImpl.java
+END
+StreamResourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/StreamResourceServiceImpl.java
+END
+AdsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/AdsServiceImpl.java
+END
+RfServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/RfServiceImpl.java
+END
+AccessGatewayConfigServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/AccessGatewayConfigServiceImpl.java
+END
+QamDyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/QamDyServiceImpl.java
+END
+KeyConfigServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/4661/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/KeyConfigServiceImpl.java
+END
+QamServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/QamServiceImpl.java
+END
+SignalingGatewayConfigServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/SignalingGatewayConfigServiceImpl.java
+END
+QamResourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/QamResourceServiceImpl.java
+END
+NgodServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/NgodServiceImpl.java
+END
+NewQamServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/NewQamServiceImpl.java
+END
+NetworkServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/urm/service/impl/NetworkServiceImpl.java
+END

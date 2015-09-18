@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/ccl/net/ntp
+END
+NtpUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/ccl/net/ntp/NtpUtils.java
+END
+NtpV3Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/ccl/net/ntp/NtpV3Packet.java
+END
+TimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/ccl/net/ntp/TimeStamp.java
+END
+NTPUDPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/ccl/net/ntp/NTPUDPClient.java
+END
+TimeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/ccl/net/ntp/TimeInfo.java
+END
+NtpV3Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/ccl/net/ntp/NtpV3Impl.java
+END

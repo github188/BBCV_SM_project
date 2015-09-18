@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/bsd
+END
+RCommandClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/bsd/RCommandClient.java
+END
+RExecClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/bsd/RExecClient.java
+END
+RLoginClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/bsd/RLoginClient.java
+END

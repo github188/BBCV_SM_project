@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/newsvn/!svn/ver/4120/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install
+END
+ucms-stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-stop.sh
+END
+MultiScreens.apk
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/MultiScreens.apk
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/readme.txt
+END
+ucms-start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-start.sh
+END
+assembly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/assembly.xml
+END

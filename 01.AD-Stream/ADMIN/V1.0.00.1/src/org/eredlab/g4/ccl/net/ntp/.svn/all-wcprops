@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/ntp
+END
+NtpUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/ntp/NtpUtils.java
+END
+NtpV3Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/ntp/NtpV3Packet.java
+END
+TimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/ntp/TimeStamp.java
+END
+NTPUDPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/ntp/NTPUDPClient.java
+END
+TimeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/ntp/TimeInfo.java
+END
+NtpV3Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/ccl/net/ntp/NtpV3Impl.java
+END

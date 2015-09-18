@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable
+END
+selector_remote_control_down.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_remote_control_down.xml
+END
+shadow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/shadow.xml
+END
+selector_update_btn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_update_btn.xml
+END
+selector_remote_control_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_remote_control_right.xml
+END
+umeng_common_gradient_red.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_common_gradient_red.xml
+END
+umeng_common_gradient_orange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_common_gradient_orange.xml
+END
+umeng_update_button_cancel_bg_normal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_cancel_bg_normal.xml
+END
+umeng_update_button_cancel_bg_focused.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_cancel_bg_focused.xml
+END
+menu_tab_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/menu_tab_bg.xml
+END
+selector_remote_control_quik_back.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_remote_control_quik_back.xml
+END
+selector_remote_control_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_remote_control_left.xml
+END
+selector_remote_control_quik_go.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_remote_control_quik_go.xml
+END
+seekbar_thumb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/seekbar_thumb.xml
+END
+selector_remote_control_play_pause.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_remote_control_play_pause.xml
+END
+selector_fragment_scan_toscan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_fragment_scan_toscan.xml
+END
+umeng_common_gradient_green.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_common_gradient_green.xml
+END
+umeng_update_button_ok_bg_normal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_ok_bg_normal.xml
+END
+umeng_update_button_ok_bg_focused.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_ok_bg_focused.xml
+END
+selector_slidingmenu_btn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_slidingmenu_btn.xml
+END
+umeng_update_button_cancel_bg_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_cancel_bg_selector.xml
+END
+umeng_update_title_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_title_bg.xml
+END
+umeng_update_button_cancel_bg_tap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_cancel_bg_tap.xml
+END
+selector_remote_control_up.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_remote_control_up.xml
+END
+selector_remote_control_stop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_remote_control_stop.xml
+END
+player_setting_bright_progressbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/player_setting_bright_progressbar.xml
+END
+selector_def_btn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_def_btn.xml
+END
+umeng_update_wifi_disable.png
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_wifi_disable.png
+END
+umeng_update_dialog_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_dialog_bg.xml
+END
+umeng_update_button_close_bg_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_close_bg_selector.xml
+END
+umeng_update_button_check_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_check_selector.xml
+END
+umeng_update_button_ok_bg_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_ok_bg_selector.xml
+END
+po_seekbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/po_seekbar.xml
+END
+progress_holo_light.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/progress_holo_light.xml
+END
+umeng_update_button_ok_bg_tap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/umeng_update_button_ok_bg_tap.xml
+END
+selector_remote_control_pause_play.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/3762/CODE/01.product/05.SVSTB/08.Android-APP/V1.0.00.1/Multiscreen/res/drawable/selector_remote_control_pause_play.xml
+END

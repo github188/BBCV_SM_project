@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/docs/appdev/sample
+END
+sample.war
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/docs/appdev/sample/sample.war
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/docs/appdev/sample/index.html
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/docs/appdev/sample/build.xml
+END

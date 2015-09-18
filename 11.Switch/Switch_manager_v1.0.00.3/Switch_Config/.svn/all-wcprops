@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config
+END
+DateTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/DateTime.h
+END
+Socket_Ractor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Socket_Ractor.cpp
+END
+TaskTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/TaskTimer.cpp
+END
+PropConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/PropConfig.cpp
+END
+Singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Singleton.h
+END
+Socket_Ractor.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Socket_Ractor.h
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Thread.cpp
+END
+TaskTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/TaskTimer.h
+END
+Global_Macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Global_Macros.h
+END
+Cmake.pure
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Cmake.pure
+END
+PropConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/PropConfig.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Thread.h
+END
+Record.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Record.cpp
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Log.cpp
+END
+Record.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Record.h
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Log.h
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Socket.cpp
+END
+Pub_c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Pub_c.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Makefile
+END
+DateTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/DateTime.cpp
+END
+Pub_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Pub_c.h
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/3058/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.3/Switch_Config/Socket.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/smtp
+END
+SMTPReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/smtp/SMTPReply.java
+END
+SMTPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/smtp/SMTPClient.java
+END
+SMTPCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/smtp/SMTPCommand.java
+END
+SMTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/smtp/SMTP.java
+END
+SimpleSMTPHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/smtp/SimpleSMTPHeader.java
+END
+RelayPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/smtp/RelayPath.java
+END
+SMTPConnectionClosedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/ccl/net/smtp/SMTPConnectionClosedException.java
+END

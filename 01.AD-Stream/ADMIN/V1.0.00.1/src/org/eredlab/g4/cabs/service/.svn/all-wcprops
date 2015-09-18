@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/3088/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/cabs/service
+END
+ServerMonitorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/cabs/service/ServerMonitorService.java
+END
+PackageVersionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/cabs/service/PackageVersionService.java
+END
+BatchUpdateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/cabs/service/BatchUpdateService.java
+END
+UpdateStrategyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/cabs/service/UpdateStrategyService.java
+END
+AppGroupManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/3088/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/cabs/service/AppGroupManagerService.java
+END
+DevManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/cabs/service/DevManagerService.java
+END

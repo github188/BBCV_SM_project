@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao
+END
+AdDistributionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao/AdDistributionView.java
+END
+AdDistributionView.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao/AdDistributionView.hbm.xml
+END
+MainBannerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao/MainBannerView.java
+END
+VodRoleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao/VodRoleView.java
+END
+BannerVodView.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao/BannerVodView.java
+END
+MainBannerView.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao/MainBannerView.hbm.xml
+END
+VodRoleView.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao/VodRoleView.hbm.xml
+END
+AdAndAdDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao/AdAndAdDistribution.java
+END
+BannerVodView.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/pojo/dao/BannerVodView.hbm.xml
+END

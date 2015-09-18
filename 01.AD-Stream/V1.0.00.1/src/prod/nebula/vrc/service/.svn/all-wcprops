@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/service
+END
+TCPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/service/TCPClient.java
+END
+UDPclient.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/service/UDPclient.java
+END
+TCPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/service/TCPServer.java
+END

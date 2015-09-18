@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/dtd
+END
+spring-beans.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/dtd/spring-beans.dtd
+END
+sql-map-2.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/dtd/sql-map-2.dtd
+END
+sql-map-config-2.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/WebRoot/WEB-INF/dtd/sql-map-config-2.dtd
+END

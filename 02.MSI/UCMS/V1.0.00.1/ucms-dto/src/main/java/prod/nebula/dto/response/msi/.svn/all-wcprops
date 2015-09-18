@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/1831/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi
+END
+KeySendResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/newsvn/!svn/ver/1713/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi/KeySendResponse.java
+END
+BaseMsiResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi/BaseMsiResponse.java
+END
+LoginCodeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/newsvn/!svn/ver/1713/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi/LoginCodeResponse.java
+END
+BaseResponseError.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi/BaseResponseError.java
+END
+UserAccessReAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi/UserAccessReAction.java
+END
+UserSessionQueryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi/UserSessionQueryResponse.java
+END
+UserBindResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/1713/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi/UserBindResponse.java
+END
+AuthCodeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/1359/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi/AuthCodeResponse.java
+END
+UserVodPlayResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/newsvn/!svn/ver/1713/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.1/ucms-dto/src/main/java/prod/nebula/dto/response/msi/UserVodPlayResponse.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/util
+END
+AntPathMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/util/AntPathMatcher.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/util/MD5.java
+END
+ClassUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/util/ClassUtils.java
+END
+ResourceWebUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/util/ResourceWebUtils.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/util/StringUtils.java
+END

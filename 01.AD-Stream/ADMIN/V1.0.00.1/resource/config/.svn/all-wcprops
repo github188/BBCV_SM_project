@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/newsvn/!svn/ver/3088/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/resource/config
+END
+global.dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/resource/config/global.dao.xml
+END
+global.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3088/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/resource/config/global.config.xml
+END
+crsm.dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/resource/config/crsm.dao.xml
+END

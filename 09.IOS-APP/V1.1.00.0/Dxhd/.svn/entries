@@ -1,0 +1,169 @@
+10
+
+dir
+4816
+http://192.168.100.21/svn/newsvn/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.0/Dxhd
+http://192.168.100.21/svn/newsvn
+
+
+
+2014-12-22T08:08:54.219122Z
+3562
+jiangym
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0d40454a-3a49-40b4-83cb-aa7bedcd95e6
+
+LocalStorage
+dir
+
+main.m
+file
+
+
+
+
+2014-12-23T02:07:26.558647Z
+538b6220f5cb2ea72f966352749ac4e8
+2014-12-22T08:08:54.219122Z
+3562
+jiangym
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+328
+
+en.lproj
+dir
+
+Core
+dir
+
+Network
+dir
+
+MainFuncation
+dir
+
+Dxhd-Prefix.pch
+file
+
+
+
+
+2014-12-23T02:07:26.560647Z
+4b30254a4c9b53329833a4fb24ebca3e
+2014-12-22T08:08:54.219122Z
+3562
+jiangym
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+371
+
+OpenLibraries
+dir
+
+Model
+dir
+
+Images.xcassets
+dir
+
+ViewControllers
+dir
+
+Dxhd-Info.plist
+file
+
+
+
+
+2014-12-23T02:07:26.562647Z
+c763b6afbbbba0b5a814946140a21709
+2014-12-22T08:08:54.219122Z
+3562
+jiangym
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1847
+
+Resources
+dir
+
+AppDelegate
+dir
+
+Util
+dir
+
+UI
+dir
+

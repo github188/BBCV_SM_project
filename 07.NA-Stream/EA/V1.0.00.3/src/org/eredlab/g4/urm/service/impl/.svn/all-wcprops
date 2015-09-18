@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl
+END
+NavigateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/NavigateServiceImpl.java
+END
+QamServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/QamServiceImpl.java
+END
+AppAccessServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/AppAccessServiceImpl.java
+END
+StreamResourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/StreamResourceServiceImpl.java
+END
+QamResourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/QamResourceServiceImpl.java
+END
+AdsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/AdsServiceImpl.java
+END
+NgodServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/NgodServiceImpl.java
+END
+RfServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/RfServiceImpl.java
+END
+NewQamServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/NewQamServiceImpl.java
+END
+NetworkServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/NetworkServiceImpl.java
+END
+QamDyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/urm/service/impl/QamDyServiceImpl.java
+END

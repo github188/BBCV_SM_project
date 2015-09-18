@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor
+END
+ckeditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/ckeditor.js
+END
+ckeditor_basic.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/ckeditor_basic.js
+END
+config.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/config.js
+END
+ckeditor_basic_source.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/ckeditor_basic_source.js
+END
+ckeditor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/ckeditor.inc.php
+END
+contents.css
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/contents.css
+END
+LICENSE.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/LICENSE.html
+END
+ckeditor_php4.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/ckeditor_php4.php
+END
+ckeditor_php5.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/ckeditor_php5.php
+END
+ckeditor.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/3754/CODE/01.product/05.SVSTB/13.CMS/V1.0.00.1/bbcvcms/cms_web/include/ckeditor/ckeditor.php
+END

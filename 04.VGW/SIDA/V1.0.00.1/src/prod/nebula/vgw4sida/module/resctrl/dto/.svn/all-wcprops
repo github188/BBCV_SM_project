@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/2582/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/module/resctrl/dto
+END
+VODQuitlReqBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/2582/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/module/resctrl/dto/VODQuitlReqBean.java
+END
+VODResCtrlReqBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/2582/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/module/resctrl/dto/VODResCtrlReqBean.java
+END
+VodCtrlReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/2582/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/module/resctrl/dto/VodCtrlReq.java
+END
+VODRecvKeyMsgBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/2582/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/src/prod/nebula/vgw4sida/module/resctrl/dto/VODRecvKeyMsgBean.java
+END

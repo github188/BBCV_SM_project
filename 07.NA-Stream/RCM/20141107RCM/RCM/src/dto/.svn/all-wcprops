@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto
+END
+BannerCountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/BannerCountService.java
+END
+TvNavigateConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/TvNavigateConfigService.java
+END
+ConfigListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/ConfigListService.java
+END
+MbDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/MbDetailService.java
+END
+VodResService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/VodResService.java
+END
+InitVodResourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/InitVodResourceService.java
+END
+BannerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/BannerService.java
+END
+MbHomeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/MbHomeService.java
+END
+TvNavigateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/TvNavigateService.java
+END
+BannerConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/BannerConfigService.java
+END
+MbHomeConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3770/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/20141107RCM/RCM/src/dto/MbHomeConfigService.java
+END

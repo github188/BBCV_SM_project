@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/myzxing/camera
+END
+AutoFocusManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/myzxing/camera/AutoFocusManager.java
+END
+CameraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/myzxing/camera/CameraManager.java
+END
+FrontLightMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/myzxing/camera/FrontLightMode.java
+END
+CameraConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/myzxing/camera/CameraConfigurationManager.java
+END
+PreviewCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/myzxing/camera/PreviewCallback.java
+END

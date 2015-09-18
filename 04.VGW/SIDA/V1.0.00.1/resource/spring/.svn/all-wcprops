@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/newsvn/!svn/ver/2659/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/resource/spring
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/2659/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/resource/spring/applicationContext.xml
+END
+c3p0mysqlconnection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/2659/CODE/01.product/05.SVSTB/04.VGW/SIDA/V1.0.00.1/resource/spring/c3p0mysqlconnection.xml
+END

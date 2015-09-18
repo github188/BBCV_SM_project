@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/Multiscreen/fragments
+END
+RemoteFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/Multiscreen/fragments/RemoteFragment.java
+END
+WebFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/Multiscreen/fragments/WebFragment.java
+END
+FragmentAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/Multiscreen/fragments/FragmentAdapter.java
+END
+MenuFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/Multiscreen/fragments/MenuFragment.java
+END
+ScanFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/Multiscreen/fragments/ScanFragment.java
+END
+HomeFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/Multiscreen/fragments/HomeFragment.java
+END
+BaseFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/src/com/bbcvision/Multiscreen/fragments/BaseFragment.java
+END

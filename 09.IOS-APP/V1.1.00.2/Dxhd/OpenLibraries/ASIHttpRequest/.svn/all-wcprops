@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASINetworkQueue.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/ASIHttpRequest/ASIDataCompressor.m
+END

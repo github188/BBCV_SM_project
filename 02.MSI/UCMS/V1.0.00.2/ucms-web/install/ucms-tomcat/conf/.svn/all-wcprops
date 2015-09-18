@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/conf
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/conf/logging.properties
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/conf/context.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/conf/server.xml
+END
+tomcat-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/conf/tomcat-users.xml
+END
+catalina.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/conf/catalina.properties
+END
+catalina.policy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/conf/catalina.policy
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/conf/web.xml
+END

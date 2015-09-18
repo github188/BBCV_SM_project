@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl
+END
+G4.DefaultResource.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/G4.DefaultResource.properties
+END
+CacheResourceFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/CacheResourceFilter.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/Configuration.java
+END
+DefaultLoaderMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/DefaultLoaderMapping.java
+END
+DefaultResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/DefaultResourceManager.java
+END
+ConfigeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/ConfigeException.java
+END
+UriMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/UriMapping.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/Constants.java
+END
+ResourceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/ResourceServlet.java
+END
+ResourceFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/ResourceFilter.java
+END
+DefaultHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/DefaultHandlerMapping.java
+END
+DefaultResourceConfigMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/rif/resource/impl/DefaultResourceConfigMapping.java
+END

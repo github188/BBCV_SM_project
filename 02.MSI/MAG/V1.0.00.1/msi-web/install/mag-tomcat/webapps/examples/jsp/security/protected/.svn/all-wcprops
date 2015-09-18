@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/jsp/security/protected
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/jsp/security/protected/index.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/jsp/security/protected/login.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/jsp/security/protected/error.jsp
+END
+index.jsp.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/jsp/security/protected/index.jsp.html
+END
+login.jsp.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/jsp/security/protected/login.jsp.html
+END
+error.jsp.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/jsp/security/protected/error.jsp.html
+END

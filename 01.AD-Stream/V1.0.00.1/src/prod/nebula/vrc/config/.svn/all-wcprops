@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/config
+END
+VODConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/config/VODConst.java
+END
+MsgConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/config/MsgConstants.java
+END
+JSONConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/config/JSONConstants.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/config/Command.java
+END
+ServerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/src/prod/nebula/vrc/config/ServerConfiguration.java
+END

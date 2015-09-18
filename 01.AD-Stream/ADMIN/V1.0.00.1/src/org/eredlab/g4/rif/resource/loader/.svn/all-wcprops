@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/rif/resource/loader
+END
+ClasspathResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/rif/resource/loader/ClasspathResourceLoader.java
+END
+AbstractResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/rif/resource/loader/AbstractResourceLoader.java
+END
+DynamicResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/rif/resource/loader/DynamicResourceLoader.java
+END
+NotFoundResourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/rif/resource/loader/NotFoundResourceException.java
+END
+MD5ClasspathResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/rif/resource/loader/MD5ClasspathResourceLoader.java
+END
+BufferResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/rif/resource/loader/BufferResponseWrapper.java
+END
+SimpleServletOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/rif/resource/loader/SimpleServletOutputStream.java
+END
+FileResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/3081/CODE/01.product/05.SVSTB/01.AD-Stream/ADMIN/V1.0.00.1/src/org/eredlab/g4/rif/resource/loader/FileResourceLoader.java
+END

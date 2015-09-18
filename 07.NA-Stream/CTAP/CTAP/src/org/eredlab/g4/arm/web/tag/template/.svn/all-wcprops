@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/web/tag/template
+END
+CardTreesTag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/web/tag/template/CardTreesTag.tpl
+END
+ArmSelectUserTreeTag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/web/tag/template/ArmSelectUserTreeTag.tpl
+END
+ArmViewportTag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/web/tag/template/ArmViewportTag.tpl
+END
+ArmSelectRoleTreeTag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/web/tag/template/ArmSelectRoleTreeTag.tpl
+END
+ArmRoleGrantMenuTreeTag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/web/tag/template/ArmRoleGrantMenuTreeTag.tpl
+END
+ArmSelectMenuTreeTag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/4262/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/src/org/eredlab/g4/arm/web/tag/template/ArmSelectMenuTreeTag.tpl
+END

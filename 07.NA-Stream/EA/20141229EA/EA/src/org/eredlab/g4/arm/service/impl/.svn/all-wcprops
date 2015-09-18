@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/arm/service/impl
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/arm/service/impl/UserServiceImpl.java
+END
+ParamServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/arm/service/impl/ParamServiceImpl.java
+END
+RoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/arm/service/impl/RoleServiceImpl.java
+END
+OrganizationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/arm/service/impl/OrganizationServiceImpl.java
+END
+PartServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/arm/service/impl/PartServiceImpl.java
+END
+MonitorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/arm/service/impl/MonitorServiceImpl.java
+END
+ResourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/arm/service/impl/ResourceServiceImpl.java
+END
+ArmTagSupportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/src/org/eredlab/g4/arm/service/impl/ArmTagSupportServiceImpl.java
+END

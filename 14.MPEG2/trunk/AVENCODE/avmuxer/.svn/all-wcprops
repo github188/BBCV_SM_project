@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/avmuxer
+END
+CAVMuxer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/avmuxer/CAVMuxer.h
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/avmuxer/test.cpp
+END
+avmuxer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/avmuxer/avmuxer.cpp
+END
+CAVMuxer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/avmuxer/CAVMuxer.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/avmuxer/Makefile
+END
+avmuxer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/newsvn/!svn/ver/4806/CODE/01.product/05.SVSTB/14.MPEG2/trunk/AVENCODE/avmuxer/avmuxer.h
+END

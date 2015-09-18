@@ -1,0 +1,797 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib
+END
+velocity-1.6.2-dep.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/velocity-1.6.2-dep.jar
+END
+jasperreports-3.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jasperreports-3.7.0.jar
+END
+spring-context-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-context-3.2.6.RELEASE.jar
+END
+xmlbeans-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/xmlbeans-2.4.0.jar
+END
+jakarta-oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jakarta-oro-2.0.8.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jta.jar
+END
+commons-dbcp-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-dbcp-1.3.jar
+END
+commons-pool-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-pool-1.5.5.jar
+END
+ant-1.6.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/ant-1.6.5.jar
+END
+commons-chain-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-chain-1.1.jar
+END
+jxl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jxl.jar
+END
+xml-resolver-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/xml-resolver-1.2.jar
+END
+geronimo-jaxws_2.1_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/geronimo-jaxws_2.1_spec-1.0.jar
+END
+jetty-server-8.1.5.v20120716.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jetty-server-8.1.5.v20120716.jar
+END
+png-encoder-1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/png-encoder-1.5.jar
+END
+geronimo-activation_1.1_spec-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/geronimo-activation_1.1_spec-1.0.2.jar
+END
+aa-core-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/aa-core-1.0.3.jar
+END
+abdera-parser-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/abdera-parser-1.0.jar
+END
+jetty-servlet-8.1.5.v20120716.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jetty-servlet-8.1.5.v20120716.jar
+END
+spring-orm-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-orm-3.2.6.RELEASE.jar
+END
+G4Server_jsp-api-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/G4Server_jsp-api-2.1.jar
+END
+spring-webmvc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-webmvc.jar
+END
+boss_webservice.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/boss_webservice.jar
+END
+EABGv1.0.00.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/EABGv1.0.00.5.jar
+END
+XmlSchema-1.4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/XmlSchema-1.4.5.jar
+END
+G4Server_jetty-util-6.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/G4Server_jetty-util-6.0.2.jar
+END
+sm-query-1.1.00.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/sm-query-1.1.00.3.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/slf4j-api-1.5.8.jar
+END
+G4Server_jetty-core-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/G4Server_jetty-core-3.1.1.jar
+END
+jetty-util-8.1.5.v20120716.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jetty-util-8.1.5.v20120716.jar
+END
+iTextAsian.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/iTextAsian.jar
+END
+saaj-impl-1.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/saaj-impl-1.3.2.jar
+END
+rm-resource-1.1.00.3-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/rm-resource-1.1.00.3-SNAPSHOT.jar
+END
+jdbc2_0-stdext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jdbc2_0-stdext.jar
+END
+G4_iBatis_bin_src_20110831.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/G4_iBatis_bin_src_20110831.jar
+END
+spring-data-redis-1.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-data-redis-1.1.1.RELEASE.jar
+END
+sm-session-1.1.00.2-20141023.113201-4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/sm-session-1.1.00.2-20141023.113201-4.jar
+END
+cxf-2.2.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/cxf-2.2.10.jar
+END
+xmemcached-1.3.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/xmemcached-1.3.6.jar
+END
+oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/oro-2.0.8.jar
+END
+aspectjweaver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/aspectjweaver.jar
+END
+crsm-common-1.0.00.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/crsm-common-1.0.00.1.jar
+END
+rm-util-1.1.00.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/rm-util-1.1.00.2.jar
+END
+xalan-2.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/xalan-2.7.1.jar
+END
+mina-integration-spring-1.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/mina-integration-spring-1.1.6.jar
+END
+c3p0-0.9.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/c3p0-0.9.0.jar
+END
+geronimo-ws-metadata_2.0_spec-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/geronimo-ws-metadata_2.0_spec-1.1.2.jar
+END
+spring-core-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-core-3.2.6.RELEASE.jar
+END
+G4_Struts_bin_src_20110831.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/G4_Struts_bin_src_20110831.jar
+END
+fastjson-1.1.39.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/fastjson-1.1.39.jar
+END
+orm_singalClass.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/orm_singalClass.jar
+END
+crsm-query-1.0.00.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/crsm-query-1.0.00.1.jar
+END
+wss4j-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/wss4j-1.5.8.jar
+END
+G4Server_jetty-6.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/G4Server_jetty-6.0.2.jar
+END
+geronimo-stax-api_1.0_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/geronimo-stax-api_1.0_spec-1.0.1.jar
+END
+wstx-asl-3.2.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/wstx-asl-3.2.9.jar
+END
+json-lib-2.3-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/json-lib-2.3-jdk15.jar
+END
+mina-integration-beans-2.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/mina-integration-beans-2.0.4.jar
+END
+commons-codec-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-codec-1.8.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-lang-2.4.jar
+END
+xmlsec-1.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/xmlsec-1.4.3.jar
+END
+spring-web-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-web-3.2.6.RELEASE.jar
+END
+fdsapi-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/fdsapi-1.2.jar
+END
+mysql-connector-java-5.1.15-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.15-bin.jar
+END
+spring-beans-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-beans-3.2.6.RELEASE.jar
+END
+serializer-2.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/serializer-2.7.1.jar
+END
+rm-dto-1.1.00.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/rm-dto-1.1.00.2.jar
+END
+logback-classic-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/logback-classic-1.1.1.jar
+END
+mysql-connector-java-5.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/mysql-connector-java-5.0.5.jar
+END
+spring-context-support-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-context-support-3.2.6.RELEASE.jar
+END
+saaj-api-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/saaj-api-1.3.jar
+END
+FastInfoset-1.2.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/FastInfoset-1.2.7.jar
+END
+iText-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/iText-2.1.0.jar
+END
+jedis-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jedis-2.1.0.jar
+END
+velocity-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/velocity-1.6.2.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/log4j-1.2.14.jar
+END
+oscache-2.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/oscache-2.0.1.jar
+END
+pinyin4j-2.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/pinyin4j-2.5.0.jar
+END
+cxf-xjc-ts-2.2.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/cxf-xjc-ts-2.2.10.jar
+END
+jetty-webapp-8.1.5.v20120716.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jetty-webapp-8.1.5.v20120716.jar
+END
+G4Server_jsp-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/G4Server_jsp-2.1.jar
+END
+ehcache-1.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/ehcache-1.3.0.jar
+END
+asm-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/asm-2.2.2.jar
+END
+spring-expression-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-expression-3.2.6.RELEASE.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/mail.jar
+END
+poi-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/poi-3.0.1.jar
+END
+cxf-manifest.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/cxf-manifest.jar
+END
+spring-jdbc-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-jdbc-3.2.6.RELEASE.jar
+END
+jsr311-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jsr311-api-1.0.jar
+END
+cxf-xjc-dv-2.2.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/cxf-xjc-dv-2.2.10.jar
+END
+cxf-xjc-bug671-2.2.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/cxf-xjc-bug671-2.2.10.jar
+END
+jruby.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jruby.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+cxf-xjc-boolean-2.2.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/cxf-xjc-boolean-2.2.10.jar
+END
+geronimo-servlet_2.5_spec-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/geronimo-servlet_2.5_spec-1.2.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/activation.jar
+END
+spring-aop-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-aop-3.2.6.RELEASE.jar
+END
+slf4j-jdk14-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/slf4j-jdk14-1.5.8.jar
+END
+commons-el-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-el-1.0.jar
+END
+wsdl4j-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/wsdl4j-1.6.2.jar
+END
+commons-io-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-io-1.1.jar
+END
+spring-tx-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-tx-3.2.6.RELEASE.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar
+END
+G4Server_servlet-api-2.5-6.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/G4Server_servlet-api-2.5-6.0.2.jar
+END
+js-1.7R1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/js-1.7R1.jar
+END
+commons-digester-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-digester-1.7.jar
+END
+aa-redis-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/aa-redis-1.0.3.jar
+END
+spring-aspects-3.2.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring-aspects-3.2.6.RELEASE.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-collections-3.2.1.jar
+END
+jdt-compiler-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jdt-compiler-3.1.1.jar
+END
+commons-fileupload-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-fileupload-1.1.1.jar
+END
+jaxb-api-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jaxb-api-2.1.jar
+END
+commons-validator-1.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-validator-1.3.0.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/junit-4.4.jar
+END
+jasperreports-fonts-3.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jasperreports-fonts-3.7.0.jar
+END
+jaxen-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jaxen-1.1.1.jar
+END
+jaxb-impl-2.1.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jaxb-impl-2.1.13.jar
+END
+mdb-bbcv-1.0.1-20141010.080857-3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/mdb-bbcv-1.0.1-20141010.080857-3.jar
+END
+jcl-over-slf4j-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jcl-over-slf4j-1.7.5.jar
+END
+mina-core-2.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/mina-core-2.0.4.jar
+END
+geronimo-annotation_1.0_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/geronimo-annotation_1.0_spec-1.1.1.jar
+END
+util-bbcv-1.0.1-20141010.080840-7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/util-bbcv-1.0.1-20141010.080840-7.jar
+END
+logback-core-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/logback-core-1.1.1.jar
+END
+antlr-2.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/antlr-2.7.2.jar
+END
+ezmorph-1.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/ezmorph-1.0.6.jar
+END
+jaxb-xjc-2.1.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jaxb-xjc-2.1.13.jar
+END
+geronimo-jms_1.1_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar
+END
+jra-1.0-alpha-4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/jra-1.0-alpha-4.jar
+END
+CTM-lib-1.1.00.2-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/CTM-lib-1.1.00.2-SNAPSHOT.jar
+END
+commons-beanutils-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/commons-beanutils-1.7.0.jar
+END
+sunjce_provider.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/sunjce_provider.jar
+END
+spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/4018/CODE/01.product/05.SVSTB/07.NA-Stream/EA/20141229EA/EA/WebRoot/WEB-INF/lib/spring.jar
+END

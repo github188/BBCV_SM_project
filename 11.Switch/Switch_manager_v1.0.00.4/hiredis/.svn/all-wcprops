@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis
+END
+sds.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/sds.h
+END
+fmacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/fmacros.h
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/CHANGELOG.md
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/.travis.yml
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/README.md
+END
+async.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/async.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/test.c
+END
+async.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/async.h
+END
+dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/dict.c
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/.gitignore
+END
+net.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/net.c
+END
+hiredis.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/hiredis.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/COPYING
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/dict.h
+END
+sds.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/sds.c
+END
+net.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/net.h
+END
+hiredis.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/hiredis.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/hiredis/Makefile
+END

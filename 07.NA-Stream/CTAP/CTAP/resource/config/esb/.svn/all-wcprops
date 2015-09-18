@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/newsvn/!svn/ver/4261/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/config/esb
+END
+httpinvoker.server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4261/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/config/esb/httpinvoker.server.xml
+END
+webservice.server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4261/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/config/esb/webservice.server.xml
+END

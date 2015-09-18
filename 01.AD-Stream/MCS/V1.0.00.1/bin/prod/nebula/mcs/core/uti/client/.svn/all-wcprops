@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/767/CODE/01.product/05.SVSTB/01.AD-Stream/MCS/V1.0.00.1/bin/prod/nebula/mcs/core/uti/client
+END
+Client.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/767/CODE/01.product/05.SVSTB/01.AD-Stream/MCS/V1.0.00.1/bin/prod/nebula/mcs/core/uti/client/Client.class
+END
+IOSocketClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/767/CODE/01.product/05.SVSTB/01.AD-Stream/MCS/V1.0.00.1/bin/prod/nebula/mcs/core/uti/client/IOSocketClient.class
+END
+IOSocket.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/767/CODE/01.product/05.SVSTB/01.AD-Stream/MCS/V1.0.00.1/bin/prod/nebula/mcs/core/uti/client/IOSocket.class
+END
+TcpClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/767/CODE/01.product/05.SVSTB/01.AD-Stream/MCS/V1.0.00.1/bin/prod/nebula/mcs/core/uti/client/TcpClient.class
+END
+XmlTcpClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/767/CODE/01.product/05.SVSTB/01.AD-Stream/MCS/V1.0.00.1/bin/prod/nebula/mcs/core/uti/client/XmlTcpClient.class
+END
+MinaTextLineCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/newsvn/!svn/ver/767/CODE/01.product/05.SVSTB/01.AD-Stream/MCS/V1.0.00.1/bin/prod/nebula/mcs/core/uti/client/MinaTextLineCodecFactory.class
+END
+UdpClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/767/CODE/01.product/05.SVSTB/01.AD-Stream/MCS/V1.0.00.1/bin/prod/nebula/mcs/core/uti/client/UdpClient.class
+END

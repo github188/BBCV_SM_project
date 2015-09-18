@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/newsvn/!svn/ver/4169/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control
+END
+ctas_sysctl.conf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/ctas_sysctl.conf
+END
+Switch_worker_Sever.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/4169/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Switch_worker_Sever.cpp
+END
+redis_instance.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/redis_instance.h
+END
+Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Stream.h
+END
+Switch_Manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Switch_Manager.h
+END
+redis_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/redis_pool.h
+END
+redis_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/redis_client.cpp
+END
+CommonFun.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/CommonFun.h
+END
+Switch_Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Switch_Control.h
+END
+swm_start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/swm_start.sh
+END
+cJSON.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/cJSON.c
+END
+Switch_Stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Switch_Stream.cpp
+END
+错误码.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/%E9%94%99%E8%AF%AF%E7%A0%81.txt
+END
+cJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/cJSON.h
+END
+CommonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/CommonData.h
+END
+SWM.config
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/SWM.config
+END
+redis_instance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/redis_instance.cpp
+END
+Stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Stream.cpp
+END
+Switch_Manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4169/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Switch_Manager.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Makefile
+END
+redis_pool_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/redis_pool_test.cpp
+END
+redis_pool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/redis_pool.cpp
+END
+CommonFun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/newsvn/!svn/ver/4169/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/CommonFun.cpp
+END
+Switch_Control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4169/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Switch_Control.cpp
+END
+Switch_worker_Sever.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Switch_worker_Sever.h
+END
+swm_stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/swm_stop.sh
+END
+database_tabel.txt.bak
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/database_tabel.txt.bak
+END
+Switch_Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Switch_Main.cpp
+END
+database_tabel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/database_tabel.txt
+END
+redis_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/redis_client.h
+END
+Cmake.pure
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Cmake.pure
+END
+swm.redis.conf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/swm.redis.conf
+END
+Switch_Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/Switch_Stream.h
+END
+ctas_sysctl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/newsvn/!svn/ver/4038/CODE/01.product/05.SVSTB/11.Switch/Switch_manager_v1.0.00.4/Switch_Control/ctas_sysctl.sh
+END

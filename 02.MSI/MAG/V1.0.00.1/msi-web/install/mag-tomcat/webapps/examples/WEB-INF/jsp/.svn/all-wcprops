@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/WEB-INF/jsp
+END
+debug-taglib.tld
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/WEB-INF/jsp/debug-taglib.tld
+END
+example-taglib.tld
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-web/install/mag-tomcat/webapps/examples/WEB-INF/jsp/example-taglib.tld
+END

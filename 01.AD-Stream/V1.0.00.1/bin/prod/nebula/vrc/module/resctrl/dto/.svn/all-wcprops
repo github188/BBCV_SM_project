@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/module/resctrl/dto
+END
+VODRecvKeyMsgBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/module/resctrl/dto/VODRecvKeyMsgBean.class
+END
+VODQuitlReqBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/module/resctrl/dto/VODQuitlReqBean.class
+END
+VODResCtrlReqBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/module/resctrl/dto/VODResCtrlReqBean.class
+END
+VodCtrlReq.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/newsvn/!svn/ver/1203/CODE/01.product/05.SVSTB/01.AD-Stream/V1.0.00.1/bin/prod/nebula/vrc/module/resctrl/dto/VodCtrlReq.class
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/mtp
+END
+UserLoginRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/mtp/UserLoginRequest.java
+END
+BaseMtpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/mtp/BaseMtpRequest.java
+END
+AuthCodeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/mtp/AuthCodeRequest.java
+END
+UserRegRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/mtp/UserRegRequest.java
+END
+VodsqueryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/newsvn/!svn/ver/1356/CODE/01.product/05.SVSTB/02.MSI/MAG/V1.0.00.1/msi-dto/src/main/java/prod/nebula/dto/request/mtp/VodsqueryRequest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/newsvn/!svn/ver/3772/CODE/01.product/05.SVSTB/04.VGW/SIHUA/V1.0.00.1/src/prod/nebula/vgw/util/client
+END
+IOSocketClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3772/CODE/01.product/05.SVSTB/04.VGW/SIHUA/V1.0.00.1/src/prod/nebula/vgw/util/client/IOSocketClient.java
+END
+IOSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/3772/CODE/01.product/05.SVSTB/04.VGW/SIHUA/V1.0.00.1/src/prod/nebula/vgw/util/client/IOSocket.java
+END
+TcpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/3772/CODE/01.product/05.SVSTB/04.VGW/SIHUA/V1.0.00.1/src/prod/nebula/vgw/util/client/TcpClient.java
+END
+UdpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/3772/CODE/01.product/05.SVSTB/04.VGW/SIHUA/V1.0.00.1/src/prod/nebula/vgw/util/client/UdpClient.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/newsvn/!svn/ver/3772/CODE/01.product/05.SVSTB/04.VGW/SIHUA/V1.0.00.1/src/prod/nebula/vgw/util/client/Client.java
+END

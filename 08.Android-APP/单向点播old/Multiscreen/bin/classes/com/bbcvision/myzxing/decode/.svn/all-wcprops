@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode
+END
+Intents$Share.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/Intents$Share.class
+END
+DecodeThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/DecodeThread.class
+END
+InactivityTimer$InactivityAsyncTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/InactivityTimer$InactivityAsyncTask.class
+END
+CaptureActivityHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/CaptureActivityHandler.class
+END
+Intents$WifiConnect.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/Intents$WifiConnect.class
+END
+DecodeHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/DecodeHandler.class
+END
+CaptureActivityHandler$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/CaptureActivityHandler$State.class
+END
+Intents.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/Intents.class
+END
+InactivityTimer.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/InactivityTimer.class
+END
+FinishListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/FinishListener.class
+END
+DecodeFormatManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/DecodeFormatManager.class
+END
+Intents$Scan.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/Intents$Scan.class
+END
+InactivityTimer$PowerStatusReceiver.class
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/InactivityTimer$PowerStatusReceiver.class
+END
+Intents$Encode.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/Intents$Encode.class
+END
+Intents$SearchBookContents.class
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/Intents$SearchBookContents.class
+END
+Intents$History.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/newsvn/!svn/ver/3546/CODE/01.product/05.SVSTB/08.Android-APP/%E5%8D%95%E5%90%91%E7%82%B9%E6%92%ADold/Multiscreen/bin/classes/com/bbcvision/myzxing/decode/Intents$History.class
+END

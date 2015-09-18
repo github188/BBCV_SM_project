@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/newsvn/!svn/ver/4786/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/config/app
+END
+app.esb.client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/newsvn/!svn/ver/4261/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/config/app/app.esb.client.xml
+END
+app.sqlmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/newsvn/!svn/ver/4786/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/config/app/app.sqlmap.xml
+END
+app-mina-rpm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/newsvn/!svn/ver/4631/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/config/app/app-mina-rpm.xml
+END
+app.service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/newsvn/!svn/ver/4631/CODE/01.product/05.SVSTB/07.NA-Stream/CTAP/CTAP/resource/config/app/app.service.xml
+END

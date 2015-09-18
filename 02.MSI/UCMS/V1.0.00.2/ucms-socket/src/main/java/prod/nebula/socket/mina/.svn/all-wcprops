@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-socket/src/main/java/prod/nebula/socket/mina
+END
+DecoratorNioSocketAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-socket/src/main/java/prod/nebula/socket/mina/DecoratorNioSocketAcceptor.java
+END
+MinaTextLineCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-socket/src/main/java/prod/nebula/socket/mina/MinaTextLineCodecFactory.java
+END
+DynamicLoadBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-socket/src/main/java/prod/nebula/socket/mina/DynamicLoadBean.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp
+END
+NNTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/NNTP.java
+END
+SimpleNNTPHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/SimpleNNTPHeader.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/Article.java
+END
+ArticlePointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/ArticlePointer.java
+END
+NewsgroupInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/NewsgroupInfo.java
+END
+NNTPConnectionClosedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/NNTPConnectionClosedException.java
+END
+NNTPReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/NNTPReply.java
+END
+Threadable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/Threadable.java
+END
+NewGroupsOrNewsQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/NewGroupsOrNewsQuery.java
+END
+NNTPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/NNTPClient.java
+END
+NNTPCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/NNTPCommand.java
+END
+Threader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/3779/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.1/EA/src/org/eredlab/g4/ccl/net/nntp/Threader.java
+END

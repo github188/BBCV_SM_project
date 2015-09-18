@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4204/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.3/ucms-service/src/main/java/prod/nebula/service/socket/mgw
+END
+VgwserviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/newsvn/!svn/ver/4204/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.3/ucms-service/src/main/java/prod/nebula/service/socket/mgw/VgwserviceImpl.java
+END
+MgwKeyControlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/newsvn/!svn/ver/4204/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.3/ucms-service/src/main/java/prod/nebula/service/socket/mgw/MgwKeyControlServiceImpl.java
+END

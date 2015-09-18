@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/SMS/SMS_SDK.framework/Headers
+END
+CountryAndAreaCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/SMS/SMS_SDK.framework/Headers/CountryAndAreaCode.h
+END
+SMS_UserInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/SMS/SMS_SDK.framework/Headers/SMS_UserInfo.h
+END
+SMS_AddressBook.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/SMS/SMS_SDK.framework/Headers/SMS_AddressBook.h
+END
+SMS_SDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/SMS/SMS_SDK.framework/Headers/SMS_SDK.h
+END
+SMS_SDKResultHanderDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/newsvn/!svn/ver/3917/CODE/01.product/05.SVSTB/09.IOS-APP/V1.1.00.2/Dxhd/OpenLibraries/SMS/SMS_SDK.framework/Headers/SMS_SDKResultHanderDef.h
+END

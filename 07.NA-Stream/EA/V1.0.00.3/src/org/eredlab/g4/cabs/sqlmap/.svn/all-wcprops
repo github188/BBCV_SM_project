@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/cabs/sqlmap
+END
+PackageVersion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/cabs/sqlmap/PackageVersion.xml
+END
+BatchUpdate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/cabs/sqlmap/BatchUpdate.xml
+END
+UpdateStrategy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/cabs/sqlmap/UpdateStrategy.xml
+END
+AppGroupManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/cabs/sqlmap/AppGroupManager.xml
+END
+DeviceManage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/cabs/sqlmap/DeviceManage.xml
+END
+ServerMonitor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/4171/CODE/01.product/05.SVSTB/07.NA-Stream/EA/V1.0.00.3/src/org/eredlab/g4/cabs/sqlmap/ServerMonitor.xml
+END

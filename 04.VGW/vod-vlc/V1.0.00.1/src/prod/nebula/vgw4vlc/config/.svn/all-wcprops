@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/newsvn/!svn/ver/4781/CODE/01.product/05.SVSTB/04.VGW/vod-vlc/V1.0.00.1/src/prod/nebula/vgw4vlc/config
+END
+VODConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/newsvn/!svn/ver/2711/CODE/01.product/05.SVSTB/04.VGW/vod-vlc/V1.0.00.1/src/prod/nebula/vgw4vlc/config/VODConst.java
+END
+TelnetClientServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/newsvn/!svn/ver/4781/CODE/01.product/05.SVSTB/04.VGW/vod-vlc/V1.0.00.1/src/prod/nebula/vgw4vlc/config/TelnetClientServer.java
+END
+MsgConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/newsvn/!svn/ver/2711/CODE/01.product/05.SVSTB/04.VGW/vod-vlc/V1.0.00.1/src/prod/nebula/vgw4vlc/config/MsgConstants.java
+END
+JSONConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/newsvn/!svn/ver/2726/CODE/01.product/05.SVSTB/04.VGW/vod-vlc/V1.0.00.1/src/prod/nebula/vgw4vlc/config/JSONConstants.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/newsvn/!svn/ver/2712/CODE/01.product/05.SVSTB/04.VGW/vod-vlc/V1.0.00.1/src/prod/nebula/vgw4vlc/config/Command.java
+END
+ServerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/newsvn/!svn/ver/4781/CODE/01.product/05.SVSTB/04.VGW/vod-vlc/V1.0.00.1/src/prod/nebula/vgw4vlc/config/ServerConfiguration.java
+END

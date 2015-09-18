@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/config.properties
+END
+proxoolconf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/proxoolconf.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/log4j.properties
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/newsvn/!svn/ver/2406/CODE/01.product/05.SVSTB/07.NA-Stream/RCM/RCM/src/hibernate.cfg.xml
+END

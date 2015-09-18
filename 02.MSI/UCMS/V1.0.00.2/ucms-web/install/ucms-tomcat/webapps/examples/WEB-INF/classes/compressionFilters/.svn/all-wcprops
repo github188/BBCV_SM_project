@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/WEB-INF/classes/compressionFilters
+END
+CompressionFilterTestServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.class
+END
+CompressionResponseStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.class
+END
+CompressionServletResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.java
+END
+CompressionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.java
+END
+CompressionServletResponseWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.class
+END
+CompressionFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.class
+END
+CompressionFilterTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.java
+END
+CompressionResponseStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/newsvn/!svn/ver/1871/CODE/01.product/05.SVSTB/02.MSI/UCMS/V1.0.00.2/ucms-web/install/ucms-tomcat/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.java
+END
